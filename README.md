@@ -20,10 +20,10 @@
 ---
 담당 : 정남용
 ---
-• 일별/월별/년도별 매출액 조회
-• 일별/월별/년도별 구매자 수, 구매 건수 조회
-• 년도별 인당 매출액 (AMV: Average Member value)
-• 년도별 건당 매출액 (ATV: Average Transaction value) : 거래 1건당 평균 매출액
+* 일별/월별/년도별 매출액 조회
+* 일별/월별/년도별 구매자 수, 구매 건수 조회
+* 년도별 인당 매출액 (AMV: Average Member value)
+* 년도별 건당 매출액 (ATV: Average Transaction value) : 거래 1건당 평균 매출액
 
 ---
 담당 : 나지원
