@@ -4,7 +4,7 @@
 - MySQL의 기본 제공 데이터를 전처리하여 구매 지표를 추출 
 
 # 사용 데이터
-- 기본 제공 "mysqltutorial.org" 사이트 내 "sample database" 중 "employees" 사용
+- 기본 제공 "classicmodels" 사용
 
 - Features Description
   * Customers : store's customer's data
