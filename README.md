@@ -21,9 +21,8 @@ Selenium과 Beautifulsoup을 이용한 웹스크래핑
    * https://www.stockanalysis.com : Request and BeautifulSoup, 되도록 성능이 빠른 BeautifulSoup을 사용
    * https://www.investing.com : selenium, BeautifulSoup으로 접근하려했으나 막혀 selenium을 통해 접근
 
-3. 단계별로 추출된 데이터 중 일자별 배당금, 일자별 주가, 배당 빈도(배당을 지급하는 빈도로 월/분기/반기/연도로 나눠짐)를
-   활용하여  
-   특정 계산식에 따라 3년 중 최고 배당률이 어떻게 되는지 구함
+3. 추출된 일자별 배당금, 일자별 주가, 배당 빈도(배당  지급 빈도- 월/분기/반기/연도로 구분)를   
+   활용하여 특정 계산식에 따라 3년 중 최고 배당률이 어떻게 되는지 구함
 
 ### Note
 * https://www.investing.com 사이트는 주기적으로 html 태그명이 변경되어 스크래핑이 원활하게 안될 때가 있었습니다.  
