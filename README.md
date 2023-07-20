@@ -1,12 +1,15 @@
 # 웹스크래핑을 이용한 미국 주식 배당금 현황 보기
 
 ### 결론
+---
 ![image](https://github.com/kimsujong90/Portfolio/assets/126228404/b727e6bd-7c4f-4047-ac2b-913511ce4fae)
 
 ### 목적
+---
 1주일에 한번씩 수기로 입력했었던 미국 주식 배당 정보를 스크래핑으로 좀 더 손쉽게 확인해볼 수 있게 코딩함
 
 ### 과정
+---
 Selenium과 Beautifulsoup을 이용한 웹스크래핑
 
 1. https://www.stockanalysis.com에서 일별 주가 목록 스크래핑 불가하여 https://www.investing.com/에서 해당 항목 가져옴
@@ -25,6 +28,7 @@ Selenium과 Beautifulsoup을 이용한 웹스크래핑
    활용하여 특정 계산식에 따라 3년 중 최고 배당률이 어떻게 되는지 구함
 
 ### Note
+---
 * https://www.investing.com 사이트는 주기적으로 html 태그명이 변경되어 스크래핑이 원활하게 안될 때가 있었습니다.  
   태그 위치로 지정하려고 했으나 각 항목별로 위치가 상이하여 추출이 안되는 정보가 있습니다.  
   사이트 정보가 변경되어도 스크래핑에 문제가 없을 수 있는 방법을 고민하고 있습니다.  
