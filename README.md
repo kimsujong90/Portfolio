@@ -1,2 +1,2 @@
 # Portfolio
-personal portfolio for Data Analyst using "Python &amp; SQL"
+각 포트폴리오는 브런치를 통해서 확인하실 수 있습니다!
