@@ -1,9 +1,11 @@
 # SQL group project describe
-------
-# 목적
+
+### 목적
+---
 - MySQL의 기본 제공 데이터를 전처리하여 구매 지표를 추출 
 
-# 사용 데이터
+### 사용 데이터
+---
 - 기본 제공 "classicmodels" 사용
 
 - Features Description
@@ -17,9 +19,7 @@
   * Offices : stores sales office data
 
  
-# Goal : 구매 지표 추출하기
----
-담당 : 김수종(본인)
+### Goal : 구매 지표 추출하기
 ---
 * 년도별 재구매율(Retention Rate)
   * 다음 년도에도 연속해서 구매 이력을 가지는 구매자의 비율
