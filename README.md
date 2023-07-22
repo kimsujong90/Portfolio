@@ -3,7 +3,7 @@
 
 ### 목적
 ---
-직원들의 보직 변경 시 누구에게 access 권한이 필요하고 필요없는지 분류하는 머신러닝 만들기
+직원들의 보직 변경 시 누구에게 access 권한이 필요하고 필요없는지 분류하는 머신러닝 만들기  
 데이터셋 : https://www.kaggle.com/competitions/amazon-employee-access-challenge
 
 ### 과정
